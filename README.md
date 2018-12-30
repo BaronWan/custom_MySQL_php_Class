@@ -5,7 +5,7 @@
 - config.php  
 程式中預設是在當前路徑的 Conf/  
 ```php  
-56:		$config = include ROOT_PATH .'/Conf/config.php';  
+52:		$config = include ROOT_PATH .'/Conf/config.php';  
 ```  
 
 ## 使用範例  
